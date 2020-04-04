@@ -1,13 +1,14 @@
 <h1 align="center">x_ploits
 
 </h1>
-<p align="center">An open-source Anonymous E-Mail Sender And E-Mail Bombing tool.</p><br>
+<p align="center">An open-source Anonymous E-Mail Sender And E-Mail/Sms/Call Bombing tool.</p><br>
 
 
 ###############  Coded by      : anonymousmani ##############<br>
 ########### Inspired by        : tuhin bose ##############<br>
+<p align="center">Tuhin bose create the mail Bombing tool.</p><br>
 ########### Inspired by        : TheSpeedX ##############<br>
-<p align="center">TheSpeedX create the SMS Bombing tool.</p><br>
+<p align="center">TheSpeedX create the Call Bombing tool.</p><br>
 ##############  Instagram id   : www.instagram.com/X_ploits ##############<br>
 ##############  Github         : www.github.com/anonymousmani ##############<br>
 
