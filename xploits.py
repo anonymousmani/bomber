@@ -4,7 +4,7 @@ import sys
 def banner():
  os.system("apt install toilet")
  os.system("clear")
- os.system("toilet -fmono12 -F gay X_PLOITS")
+ os.system("toilet -fmono12 -F gay XPLOITS")
  print("    \033[1;36;40m Code made by: \033[1;32;40m anonymousmani")
  print("    \033[1;36;40m Inspired by : \033[1;32;40m tuhin bose")
  print("    \033[1;36;40m Instagram id: \033[1;32;40m www.instagram.com/x_ploits")
