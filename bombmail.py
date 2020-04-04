@@ -5,7 +5,7 @@ import random
 import sys
 def banner():
  os.system("clear")
- os.system("toilet -fmono12 -F border X_PLOITS")
+ os.system("toilet -fmono12 -F border XPLOITS")
  print("    \033[1;36;40m TOOL        : \033[1;32;40m Bombing Mails To Your Victim ")
  print("    \033[1;36;40m Code made by: \033[1;32;40m anonymousmani")
  print("    \033[1;36;40m Inspired by : \033[1;32;40m tuhin bose")
