@@ -21,7 +21,7 @@ if(op=='1'):
 elif(op=='2'):
  os.system("python2 bombmail.py")
 elif(op=='3'):
- os.system("python2 bomber.py")
+ os.system("python3 bomber.py")
 else:
  print("\033[1;31;40mInvalid option.Quiting...")
  time.sleep(1.5)
