@@ -15,7 +15,7 @@ banner()
 print("          \033[1;32;40m[1] \033[1;36;40mAnonymous Mail")
 print("          \033[1;32;40m[2] \033[1;36;40mMail Bombing")
 print("          \033[1;32;40m[3] \033[1;36;40mSms Bombing")
-op=str(raw_input("\033[1;32;40mDiya>>>"))
+op=str(raw_input("\033[1;32;40meneter>>>"))
 if(op=='1'):
  os.system("python2 anonmail.py")
 elif(op=='2'):
