@@ -4,7 +4,7 @@
 <p align="center">An open-source Anonymous E-Mail Sender And E-Mail/Sms/Call Bombing tool.</p><br>
 
 
-###############  Coded by      : anonymousmani ##############<br>
+###############  Coded by      : Brijesh Kumar ##############<br>
 ########### Inspired by        : tuhin bose ##############<br>
 ########### Inspired by        : TheSpeedX ##############<br>
 ##############  Instagram id   : www.instagram.com/X_ploits ##############<br>
