@@ -70,7 +70,7 @@ Feel Free To Open An Issue...
 
 ```
                  Instagram id: @x_ploits
-      ]
+      
 ```
 
 
