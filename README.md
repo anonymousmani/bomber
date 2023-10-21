@@ -67,9 +67,6 @@ python2 xploits.py
 
 Feel Free To Open An Issue...
 
-```
-                 Instagram id: @x_ploits
-      
-```
+- [Instagram](https://instagram.com/x_ploits)
 
 
